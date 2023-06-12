@@ -13,3 +13,20 @@ power of Numpy effectively.
 Start your journey now and unlock the potential of Numpy in your data-driven projects!
 
 Happy Coding!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Follow the files in the given below order:-
+
+1. Introduction to Numpy
+2. Creating Numpy Arrays
+3. Some Important Attributes
+4. Numpy Array vs Python Lists
+5. Indexing, slicing and iteration
+6. Numpy Operations
+7. Reshaping NumPy arrays
+8. Fancy Indexing
+9. Indexing with Boolean Arrays
+10. Plotting graphs using NumPy
+11. Broadcasting
+12. Important Numpy Functions

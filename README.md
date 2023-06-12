@@ -16,7 +16,7 @@ Happy Coding!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Follow the files in the given below order:-
+Follow the files in the order given below for better understanding:-
 
 1. Introduction to Numpy
 2. Creating Numpy Arrays
